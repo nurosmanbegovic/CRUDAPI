@@ -1,0 +1,67 @@
+{
+    "periodic": [
+        {
+            "id": "1",
+            "day": "1",
+            "semester": "spring",
+            "start": "12:00",
+            "end": "14:00",
+            "classroom": "1-02",
+            "professor": "prof. Vensada"
+        },
+        {
+            "id": "2",
+            "day": "0",
+            "semester": "spring",
+            "start": "10:00",
+            "end": "12:00",
+            "classroom": "0-02",
+            "professor": "prof. Vensada"
+        },
+        {
+            "id": "3",
+            "day": "2",
+            "semester": "spring",
+            "start": "09:00",
+            "end": "10:30",
+            "classroom": "0-01",
+            "professor": "prof. Vensada"
+        },
+        {
+            "id": "4",
+            "day": "3",
+            "semester": "fall",
+            "start": "18:00",
+            "end": "19:00",
+            "classroom": "VA1",
+            "professor": "prof. Vensada"
+        },
+        {
+            "id": "5",
+            "day": "4",
+            "semester": "fall",
+            "start": "15:00",
+            "end": "16:00",
+            "classroom": "VA2",
+            "professor": "prof. Vensada"
+        },
+        {
+            "id": "6",
+            "day": "5",
+            "semester": "fall",
+            "start": "15:30",
+            "end": "17:30",
+            "classroom": "MA",
+            "professor": "prof. Vensada"
+        },
+        {
+            "id": "7",
+            "day": "6",
+            "semester": "fall",
+            "start": "12:30",
+            "end": "14:00",
+            "classroom": "EE1",
+            "professor": "prof. Vensada"
+        }
+    ]
+}
